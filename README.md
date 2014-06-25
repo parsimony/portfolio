@@ -15,6 +15,8 @@ This portfolio module provides new pages compared to blog module:
 
 Comments are integrated into each post and are customizable.
 
+It contains a circular menu @media screen and (max-width: 767px) and hover effetcs on Portfolio index's images.
+
 
 
 
