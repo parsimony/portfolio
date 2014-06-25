@@ -3,6 +3,7 @@ portfolio
 
 This module is established to provide a Portfolio theme as a blog module.
 It's a reponsive design theme.
+What matters in this modue is that this Portfolio module doesn't create a new model but uses an existing one: blog model in order to create in a different theme and different pages.
 
 ## Description
 
